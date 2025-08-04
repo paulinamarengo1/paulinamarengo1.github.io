@@ -6,6 +6,18 @@
   <h1>Our Services</h1>
 </font>
 
+
+<!--Email -->
+<font face="Georgia" size="4">
+  <i style="color: red;">Down below you can see a detailed list of all of our services, if you have any questions feel free to send us an email! </i>
+</font>
+
+<p></p>
+
+<a href="mailto:tekton.support@example.com?subject=Service%20Inquiry&body=Hi%20Tekton%2C%0AI'm%20interested%20in%20learning%20more%20about%20your%20services." style="text-decoration: underline; font-weight: bold;">
+  Contact Us!
+</a>
+
 <!--First service Custom House construction -->
 <div style="border: 2px solid red; background-color: #f0f0f0; padding: 15px; margin-bottom: 20px;">
 <font face="Elephant" size="5">
