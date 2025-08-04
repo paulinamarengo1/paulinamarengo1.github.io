@@ -90,6 +90,11 @@
 </font>
 
 <b><a href="https://www.landwatch.com/" target="_blank">Browse Land Listings</a></b>
+
+<font face="Georgia" size="4">
+  <b style="color: red;">Ready to get started? </b>
+</font>
+<a href="files/tekton_quote_request_form.pdf" download>Fill out our Quote Request Form</a>
 <!--Date last modified -->
 
 <p style="text-align: center;">
