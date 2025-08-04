@@ -42,8 +42,14 @@
 </font>
 
 <font face="Georgia" size="4">
-  <p>Opening a new business? We turn blank units into fully functional, code compliant commercial spaces. Whether you want to open a small cafe, a retail store, or even offices we can help you! We handle everything from layout designs to final inspections. 
+  <p>Opening a new business? We turn blank units into fully functional, code compliant commercial spaces. Whether you want to open a small cafe, a retail store, or even offices we can help you! We handle everything from layout designs to final inspections. We can:
 </p>
+
+<ul>
+  <li>Design the layout of your space</li>
+  <li>Build walls, floors, and ceilings</li>
+  <li>Make sure everything passes inspection</li>
+</ul>
 
   <img src="https://images.pexels.com/photos/1463917/pexels-photo-1463917.jpeg" alt="Construction site" width="500" style="display: block; margin: 0 auto 15px auto;">
 </font>
@@ -64,6 +70,8 @@
 </font>
 </div>
 
+<p></p>
+
 <!--Extra Servies -->
 <font face="Georgia" size="4">
   <b style="color: red;">That's not all! we can also: </b>
@@ -72,7 +80,6 @@
     <li>Build custom homes on any terrain</li>
     <li>Convert garages, basements, or attics into livable spaces</li>
     <li>Construct fully detached guest houses</li>
-
   </ol>
 </font>
 
