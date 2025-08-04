@@ -64,5 +64,15 @@
 </font>
 </div>
 
+
+<!--Date last modified -->
+
+<p style="text-align: center;">
+  <b>Date Last Modified:</b> <span id="lastModified"></span>
+</p>
+
+<script>
+  document.getElementById("lastModified").textContent = document.lastModified;
+</script>
 </body>
 </html>
