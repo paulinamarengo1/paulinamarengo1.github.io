@@ -84,11 +84,12 @@
 </font>
 
 <!-- Terrain stuff-->
+<p></p>
 <font face="Georgia" size="4">
   <b style="color: red;">Don't have Land? </b>
 </font>
 
-<a href="https://www.landwatch.com/" target="_blank">Browse Land Listings</a>
+<b><a href="https://www.landwatch.com/" target="_blank">Browse Land Listings</a></b>
 <!--Date last modified -->
 
 <p style="text-align: center;">
