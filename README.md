@@ -23,6 +23,7 @@
 
 
 <!--Second service Commercial construction -->
+
 <div style="border: 2px solid red; background-color: #f0f0f0; padding: 15px; margin-bottom: 20px;">
 <font face="Elephant" size="5">
   <h1>Commercial Construction</h1>
@@ -31,6 +32,23 @@
 <font face="Georgia" size="4">
   <p>Opening a new business? We turn blank units into fully functional, code compliant commercial spaces. Whether you want to open a small cafe, a retail store, or even offices we can help you! We handle everything from layout designs to final inspections. 
 </p>
+
+  <img src="https://images.pexels.com/photos/1463917/pexels-photo-1463917.jpeg" alt="Construction site" width="500" style="display: block; margin: 0 auto 15px auto;">
+</font>
+</div>
+
+<!--Third service Home expansions -->
+
+<div style="border: 2px solid red; background-color: #f0f0f0; padding: 15px; margin-bottom: 20px;">
+<font face="Elephant" size="5">
+  <h1>Home Expansions</h1>
+</font>
+
+<font face="Georgia" size="4">
+  <p>Need more room? Want a new office, a new space to relax, or expaning your family? Tekton designs and builds seamless home additions. We do everything: new rooms, full second stories, whatever you can think of we can make it work! We also handle all the work, from the plans to the decorations making sure everything matches your existing layout so it feels like it was always part of your home. 
+</p>
+
+  <img src="https://images.pexels.com/photos/271667/pexels-photo-271667.jpeg" alt="construction plans" width="500" style="display: block; margin: 0 auto 15px auto;">
 </font>
 </div>
 
