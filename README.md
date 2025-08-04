@@ -64,6 +64,17 @@
 </font>
 </div>
 
+<!--Extra Servies -->
+<font face="Georgia" size="4">
+  <b style="color: red;">That's not all! we can also: </b>
+
+  <ol>
+    <li>Build custom homes on any terrain</li>
+    <li>Convert garages, basements, or attics into livable spaces</li>
+    <li>Construct fully detached guest houses</li>
+
+  </ol>
+</font>
 
 <!--Date last modified -->
 
