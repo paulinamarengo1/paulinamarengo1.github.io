@@ -91,14 +91,16 @@
 
 <b><a href="https://www.landwatch.com/" target="_blank">Browse Land Listings</a></b>
 
+<!--Download quote -->
 <p></p>
 <font face="Georgia" size="4">
   <b style="color: red;">Ready to get started? </b>
 </font>
 
-<a href="files/Untitled document.pdf" download>Fill out our Quote Request Form</a>
-<!--Date last modified -->
+<a href="Untitled document.pdf" download>Fill out our Quote Request Form</a>
 
+<!--Date last modified -->
+<p></p>
 <p style="text-align: center;">
   <b>Date Last Modified:</b> <span id="lastModified"></span>
 </p>
