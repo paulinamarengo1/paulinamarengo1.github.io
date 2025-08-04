@@ -6,6 +6,7 @@
   <h1>Our Services</h1>
 </font>
 
+<div style="border: 2px solid red; background-color: #f0f0f0; padding: 15px; margin-bottom: 20px;">
 <font face="Elephant" size="5">
   <h1>Custom House Construction</h1>
 </font>
@@ -14,6 +15,6 @@
   <p>Want your home to look different? We get it! Your home should feel like you. At Tekton, we specialize in building custom houses from the ground up, tailored to your style, needs, and daily life. Whether you want a modern look, rustic, or something completely different we are here to work with you and help you build your dream home!
 </p>
 </font>
-
+</div>
 </body>
 </html>
