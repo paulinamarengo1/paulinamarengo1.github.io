@@ -14,7 +14,7 @@
 
 <p></p>
 
-<a href="mailto:tekton.support@example.com?subject=Service%20Inquiry&body=Hi%20Tekton%2C%0AI'm%20interested%20in%20learning%20more%20about%20your%20services." style="text-decoration: underline; font-weight: bold;">
+<a href="mailto:TektonConstruction@gmail.com" style="text-decoration: underline; font-weight: bold;">
   Contact Us!
 </a>
 
